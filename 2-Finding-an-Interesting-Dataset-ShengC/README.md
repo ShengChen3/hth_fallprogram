@@ -1,6 +1,13 @@
-I am interested in this data because I am a baseball fan and this data shows the stats for different baseball teams in the MLB. I think it would be really useful if I want to look at the stats for different teams and their best players according to stats. Perhaps I can also find the correlation between different factors like how the avg bat age affects their performance. The dataset can also be used to look at the list of managers for different teams and we can see that some of them switched between teams. 
+I am interested in this data because I am a baseball fan and this data shows the stats for different baseball teams in the MLB. The data shows all 30 teams in 2022 with their respective ranking. The data given would allow me to find correlation between different statistics and compare them to find a relationship. 
 
 10 Questions that I have:
-1. Which manager leads the best team?
-2. How can I use the data to interpret why some managers switch jobs?
-3. Does attendance affect performance of the teams?
+1. Which 3 teams have the highest win in 2022?
+2. What team has the highest homerun?
+3. Which team has the highest 3B (triples)?
+4. Does having more runs contribute to higher winning rate?
+5. Does having more homeruns contribute to higher winning rate?
+6. What is the relationship between BA and OPS?
+7. What factors affect OPS+?
+8. Does RBI lead to higher WL%?
+9. What is the ratio of SB (stolen bases) to CS (caught stealing) in each team?
+10. Which team has the highest AB (at-bat) to RBI ratio?
